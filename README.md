@@ -28,7 +28,7 @@ Through data cleaning, preprocessing, and visualization, we uncover insights int
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/nyc-airbnb-eda.git
+   git clone https://github.com/shahjhan99/Exploratory_Analysis_on_NYC_Airbnb_Data.git
    cd nyc-airbnb-eda
 ````
 
